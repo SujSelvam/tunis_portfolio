@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/SujSelvam/tunis_portfolio/static/css/main.42cb4413.css",
+    "main.js": "/SujSelvam/tunis_portfolio/static/js/main.5a8042a3.js",
+    "static/js/488.33cfa6e9.chunk.js": "/SujSelvam/tunis_portfolio/static/js/488.33cfa6e9.chunk.js",
+    "static/media/home.jpg": "/SujSelvam/tunis_portfolio/static/media/home.e15c5f8969ca505a30b9.jpg",
+    "static/media/blog-post-3.jpg": "/SujSelvam/tunis_portfolio/static/media/blog-post-3.488d227fe9943b9143b6.jpg",
+    "static/media/blog-post-4.jpg": "/SujSelvam/tunis_portfolio/static/media/blog-post-4.6f176edf6e379a098b2e.jpg",
+    "static/media/blog-post-2.jpg": "/SujSelvam/tunis_portfolio/static/media/blog-post-2.97fb142aeb107743528b.jpg",
+    "static/media/blog-post-1.jpg": "/SujSelvam/tunis_portfolio/static/media/blog-post-1.0cf3eb3701bc5d51c927.jpg",
+    "static/media/blog-post-6.jpg": "/SujSelvam/tunis_portfolio/static/media/blog-post-6.e4697599d3eb5f8201f5.jpg",
+    "static/media/project-2.jpg": "/SujSelvam/tunis_portfolio/static/media/project-2.f736b26dfb8817b45e06.jpg",
+    "static/media/blog-post-5.jpg": "/SujSelvam/tunis_portfolio/static/media/blog-post-5.c5a278a8cb0bea2452aa.jpg",
+    "static/media/project-3.jpeg": "/SujSelvam/tunis_portfolio/static/media/project-3.4ce675d378c7d3e4442b.jpeg",
+    "static/media/project-5.jpg": "/SujSelvam/tunis_portfolio/static/media/project-5.ee1831980f7a8b659005.jpg",
+    "static/media/project-4.jpeg": "/SujSelvam/tunis_portfolio/static/media/project-4.451345577b80b349d772.jpeg",
+    "static/media/project-9.jpeg": "/SujSelvam/tunis_portfolio/static/media/project-9.991ceccfc81cc3e3cbaf.jpeg",
+    "static/media/project-8.jpeg": "/SujSelvam/tunis_portfolio/static/media/project-8.059c6a6913d271d37978.jpeg",
+    "static/media/project-1.jpeg": "/SujSelvam/tunis_portfolio/static/media/project-1.2b9a271c0179c7869b1c.jpeg",
+    "static/media/project-6.jpg": "/SujSelvam/tunis_portfolio/static/media/project-6.01f0759726cac8cc1044.jpg",
+    "static/media/project-7.jpeg": "/SujSelvam/tunis_portfolio/static/media/project-7.b8d596a0d448e5f93965.jpeg",
+    "static/media/steve-Cv.pdf": "/SujSelvam/tunis_portfolio/static/media/steve-Cv.e83747cf513e0b21a7f1.pdf",
+    "static/media/close.svg": "/SujSelvam/tunis_portfolio/static/media/close.5bec4f69e1bbfff50fdfacd4eaff052a.svg",
+    "index.html": "/SujSelvam/tunis_portfolio/index.html",
+    "main.42cb4413.css.map": "/SujSelvam/tunis_portfolio/static/css/main.42cb4413.css.map",
+    "main.5a8042a3.js.map": "/SujSelvam/tunis_portfolio/static/js/main.5a8042a3.js.map",
+    "488.33cfa6e9.chunk.js.map": "/SujSelvam/tunis_portfolio/static/js/488.33cfa6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42cb4413.css",
+    "static/js/main.5a8042a3.js"
+  ]
+}
